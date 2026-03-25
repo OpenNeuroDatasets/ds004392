@@ -1,0 +1,46 @@
+{
+    "moca_total": {
+        "Description": "total score on the Montreal Cognitive Assessment",
+        "Units": "based on scoring criteria"
+    },
+    "drs": {
+        "Description": "Mattis Dementia Rating Scale 2",
+        "Units": "based on scoring criteria"
+    },
+    "tmt_a": {
+        "Description": "Trail Making Test part A",
+        "Units": "seconds"
+    },
+    "tmt_b": {
+        "Description": "Trail Making Test part B",
+        "Units": "seconds"
+    },
+    "bta": {
+        "Description": "Brief Test of Attention",
+        "Units": "based on scoring criteria"
+    },
+    "sdmt_oral": {
+        "Description": "Symbol Digits Modality Test, oral version",
+        "Units": "based on scoring criteria"
+    },
+    "bnt": {
+        "Description": "Boston Naming Test",
+        "Units": "based on scoring criteria"
+    },
+    "cvlt15": {
+        "Description": "California Verbal Learning Test, 2nd edition, trials 1-5 total learning score",
+        "Units": "based on scoring criteria"
+    },
+    "cvlt_ld_tot": {
+        "Description": "California Verbal Learning Test, 2nd edition, long delay free recall total score",
+        "Units": "based on scoring criteria"
+    },
+    "fas": {
+        "Description": "F-A-S Verbal Phonemic Fluency test",
+        "Units": "based on scoring criteria"
+    },
+    "jlo": {
+        "Description": "Judgement of Line Orientation test",
+        "Units": "based on scoring criteria"
+    }
+}
