@@ -1,0 +1,10 @@
+{
+    "Dx": {
+        "Description": "diagnosis of the participant",
+        "Levels": {
+            "PD normal cognition": "Parkinsons disease with normal cognition",
+            "PD-MCI": "Parkinsons disease with mild cognitive impairment",
+            "PDD": "Parkinsons disease with dementia"
+        }
+    }
+}			
